@@ -38,7 +38,7 @@ A beautiful, modern portfolio website built with React, Tailwind CSS, Framer Mot
    ```
 
 4. **Open your browser**
-   Navigate to :  https://saadali-portfolioo.netlify.app/
+   Navigate to :  https://nadirhameed.netlify.app
 
 ## 🎨 Customization
 
@@ -89,7 +89,7 @@ This project is configured for automatic deployment to GitHub Pages. The deploym
 ### GitHub Pages Deployment
 
 1. **Automatic Deployment**: The app is automatically deployed to GitHub Pages when you push to the `main` branch
-2. **Live URL**:  https://saadali-portfolioo.netlify.app/
+2. **Live URL**: https://nadirhameed.netlify.app
 3. **Build Process**: The GitHub Actions workflow builds the React app and deploys it to the `gh-pages` branch
 
 ### Manual Deployment
